@@ -1,10 +1,6 @@
 <!-- README.md for GitHub Profile ts2004T -->
 
-<h1 align="center">✨ Hey there, I'm Tanishka!</h1>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVnb3QzMGNkbTJzNDUyMmw2bHgzb3dmc2VuenFwOHZ0ZTF1NWtrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jbb3KS22397YQ/giphy.gif" width="280" alt="Coding Girl Animation"/>
-</p>
+<h1 align="center">I'm Tanishka</h1>
 
 <p align="center">
   👩‍💻 CSE Core Student &nbsp; | &nbsp; C++ Coder &nbsp; | &nbsp; ML Explorer  
@@ -57,9 +53,6 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BraWdqNzdnOGRvODBoNnF5dDNsMW1uY2xhYmJ1dG1nNG1pMWVtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PM7EBVwNHRuXYKIsJf/giphy.gif" width="280" alt="Animated Robot"/>
-</p>
-
-<p align="center">
   <sub><i>“The future belongs to those who code it.”</i></sub>
 </p>
+
